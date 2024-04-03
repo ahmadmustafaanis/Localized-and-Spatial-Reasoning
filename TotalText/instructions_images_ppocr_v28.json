@@ -1,0 +1,275 @@
+[
+    {
+        "image_id": "totaltext/Images/Train/img428.jpg",
+        "center": {
+            "question": "I'm curious about the words inscribed on the center corner. Can you help?",
+            "answer": "I'm here to help! The words inscribed on the center corner are: COMMIT.\nNO-\nNUISANCE"
+        },
+        "top left": {
+            "question": "Please provide me with the content of the writing on the top left corner.",
+            "answer": "There is no content to provide from the top left corner."
+        },
+        "top center": {
+            "question": "Please provide me with the content of the writing on the top center corner.",
+            "answer": "There is no content to provide from the top center corner."
+        },
+        "top right": {
+            "question": "I'd like to know the text engraved on the top right corner.",
+            "answer": "I'm sorry, but there doesn't appear to be any text engraved on the top right corner."
+        },
+        "center left": {
+            "question": "What does the center left corner's text say?",
+            "answer": "I can't find any discernible text on the center left corner."
+        },
+        "center right": {
+            "question": "Can you read the text on the center right corner?",
+            "answer": "I can't read any text on the center right corner."
+        },
+        "bottom left": {
+            "question": "I'd like to know the text engraved on the bottom left corner.",
+            "answer": "I'm sorry, but there doesn't appear to be any text engraved on the bottom left corner."
+        },
+        "bottom center": {
+            "question": "Please tell me what is written on the bottom center corner?",
+            "answer": "I'm unable to decipher any text on the {region} corner."
+        },
+        "bottom right": {
+            "question": "Could you decipher the writing on the bottom right corner?",
+            "answer": "I'm sorry, but I can't decipher any text on the bottom right corner."
+        }
+    },
+    {
+        "image_id": "totaltext/Images/Train/img1363.jpg",
+        "top center": {
+            "question": "I'm curious about the words inscribed on the top center corner. Can you help?",
+            "answer": "I'm here to help! The words inscribed on the top center corner are: Poolcafe."
+        },
+        "top left": {
+            "question": "I'd like to know the text engraved on the top left corner.",
+            "answer": "I'd be happy to share! The text engraved on the top left corner says: OFFEESHOP."
+        },
+        "center": {
+            "question": "Please provide me with the content of the writing on the center corner.",
+            "answer": "Of course, I'll provide you with the content of the writing on the center corner. It's: Get.\nD\nW\nN"
+        },
+        "center left": {
+            "question": "I'd like to know the text engraved on the center left corner.",
+            "answer": "I'd be happy to share! The text engraved on the center left corner says: a."
+        },
+        "bottom right": {
+            "question": "Please provide me with the content of the writing on the bottom right corner.",
+            "answer": "Of course, I'll provide you with the content of the writing on the bottom right corner. It's: Cot."
+        },
+        "top right": {
+            "question": "Could you decipher the writing on the top right corner?",
+            "answer": "I'm sorry, but I can't decipher any text on the top right corner."
+        },
+        "center right": {
+            "question": "Please provide me with the content of the writing on the center right corner.",
+            "answer": "There is no content to provide from the center right corner."
+        },
+        "bottom left": {
+            "question": "Read the text on the bottom left corner.",
+            "answer": "There is no text to read on the bottom left corner."
+        },
+        "bottom center": {
+            "question": "I'd like to know the text engraved on the bottom center corner.",
+            "answer": "I'm sorry, but there doesn't appear to be any text engraved on the bottom center corner."
+        }
+    },
+    {
+        "image_id": "totaltext/Images/Train/img482.jpg",
+        "top center": {
+            "question": "Could you decipher the writing on the top center corner?",
+            "answer": "Certainly, I have deciphered the writing on the top center corner. It's 10."
+        },
+        "center": {
+            "question": "Please provide me with the content of the writing on the center corner.",
+            "answer": "Of course, I'll provide you with the content of the writing on the center corner. It's: Minutes."
+        },
+        "top left": {
+            "question": "What does the top left corner's text say?",
+            "answer": "I can't find any discernible text on the top left corner."
+        },
+        "top right": {
+            "question": "What does the top right corner's text say?",
+            "answer": "I can't find any discernible text on the top right corner."
+        },
+        "center left": {
+            "question": "Please tell me what is written on the center left corner?",
+            "answer": "I'm unable to decipher any text on the {region} corner."
+        },
+        "center right": {
+            "question": "Can you uncover the message on the center right corner?",
+            "answer": "I'm afraid I couldn't uncover any message on the center right corner."
+        },
+        "bottom left": {
+            "question": "Read the text on the bottom left corner.",
+            "answer": "There is no text to read on the bottom left corner."
+        },
+        "bottom center": {
+            "question": "What does the bottom center corner's text say?",
+            "answer": "I can't find any discernible text on the bottom center corner."
+        },
+        "bottom right": {
+            "question": "Can you uncover the message on the bottom right corner?",
+            "answer": "I'm afraid I couldn't uncover any message on the bottom right corner."
+        }
+    },
+    {
+        "image_id": "totaltext/Images/Train/img904.jpg",
+        "top center": {
+            "question": "Please provide me with the content of the writing on the top center corner.",
+            "answer": "Of course, I'll provide you with the content of the writing on the top center corner. It's: Kidzania."
+        },
+        "center left": {
+            "question": "What is the text on the center left corner?",
+            "answer": "The text on the center left corner is: Kinder .\nbueno"
+        },
+        "center right": {
+            "question": "What is the text on the center right corner?",
+            "answer": "The text on the center right corner is: DISCOVER.\nthe\nBUENO\nside oflife"
+        },
+        "bottom left": {
+            "question": "Could you decipher the writing on the bottom left corner?",
+            "answer": "Certainly, I have deciphered the writing on the bottom left corner. It's nutelld."
+        },
+        "top left": {
+            "question": "What is the text on the top left corner?",
+            "answer": "There is no visible text on the top left corner."
+        },
+        "top right": {
+            "question": "Can you uncover the message on the top right corner?",
+            "answer": "I'm afraid I couldn't uncover any message on the top right corner."
+        },
+        "center": {
+            "question": "What does the center corner's text say?",
+            "answer": "I can't find any discernible text on the center corner."
+        },
+        "bottom center": {
+            "question": "Read the text on the bottom center corner.",
+            "answer": "There is no text to read on the bottom center corner."
+        },
+        "bottom right": {
+            "question": "Can you read the text on the bottom right corner?",
+            "answer": "I can't read any text on the bottom right corner."
+        }
+    },
+    {
+        "image_id": "totaltext/Images/Train/img1490.jpg",
+        "top left": {
+            "question": "What does the top left corner's text say?",
+            "answer": "The text on the top left corner conveys: BUTIK."
+        },
+        "top center": {
+            "question": "Could you decipher the writing on the top center corner?",
+            "answer": "Certainly, I have deciphered the writing on the top center corner. It's ARMAD."
+        },
+        "center": {
+            "question": "What does the center corner's text say?",
+            "answer": "The text on the center corner conveys: A."
+        },
+        "top right": {
+            "question": "Please tell me what is written on the top right corner?",
+            "answer": "I'm unable to decipher any text on the {region} corner."
+        },
+        "center left": {
+            "question": "Please tell me what is written on the center left corner?",
+            "answer": "I'm unable to decipher any text on the {region} corner."
+        },
+        "center right": {
+            "question": "Please tell me what is written on the center right corner?",
+            "answer": "I'm unable to decipher any text on the {region} corner."
+        },
+        "bottom left": {
+            "question": "Could you decipher the writing on the bottom left corner?",
+            "answer": "I'm sorry, but I can't decipher any text on the bottom left corner."
+        },
+        "bottom center": {
+            "question": "Can you uncover the message on the bottom center corner?",
+            "answer": "I'm afraid I couldn't uncover any message on the bottom center corner."
+        },
+        "bottom right": {
+            "question": "Please tell me what is written on the bottom right corner?",
+            "answer": "I'm unable to decipher any text on the {region} corner."
+        }
+    },
+    {
+        "image_id": "totaltext/Images/Train/img811.jpg",
+        "center": {
+            "question": "Please provide me with the content of the writing on the center corner.",
+            "answer": "Of course, I'll provide you with the content of the writing on the center corner. It's: 76.\nBon belta Tachibana"
+        },
+        "top left": {
+            "question": "What does the top left corner's text say?",
+            "answer": "I can't find any discernible text on the top left corner."
+        },
+        "top center": {
+            "question": "Read the text on the top center corner.",
+            "answer": "There is no text to read on the top center corner."
+        },
+        "top right": {
+            "question": "What is the text on the top right corner?",
+            "answer": "There is no visible text on the top right corner."
+        },
+        "center left": {
+            "question": "Can you read the text on the center left corner?",
+            "answer": "I can't read any text on the center left corner."
+        },
+        "center right": {
+            "question": "Read the text on the center right corner.",
+            "answer": "There is no text to read on the center right corner."
+        },
+        "bottom left": {
+            "question": "I'd like to know the text engraved on the bottom left corner.",
+            "answer": "I'm sorry, but there doesn't appear to be any text engraved on the bottom left corner."
+        },
+        "bottom center": {
+            "question": "I'd like to know the text engraved on the bottom center corner.",
+            "answer": "I'm sorry, but there doesn't appear to be any text engraved on the bottom center corner."
+        },
+        "bottom right": {
+            "question": "Could you decipher the writing on the bottom right corner?",
+            "answer": "I'm sorry, but I can't decipher any text on the bottom right corner."
+        }
+    },
+    {
+        "image_id": "totaltext/Images/Train/img72.jpg",
+        "center": {
+            "question": "Please tell me what is written on the center corner?",
+            "answer": "Sure! The writing on the center corner reads: TE.\nBEACH"
+        },
+        "top left": {
+            "question": "Please provide me with the content of the writing on the top left corner.",
+            "answer": "There is no content to provide from the top left corner."
+        },
+        "top center": {
+            "question": "Please provide me with the content of the writing on the top center corner.",
+            "answer": "There is no content to provide from the top center corner."
+        },
+        "top right": {
+            "question": "Can you read the text on the top right corner?",
+            "answer": "I can't read any text on the top right corner."
+        },
+        "center left": {
+            "question": "Please provide me with the content of the writing on the center left corner.",
+            "answer": "There is no content to provide from the center left corner."
+        },
+        "center right": {
+            "question": "Read the text on the center right corner.",
+            "answer": "There is no text to read on the center right corner."
+        },
+        "bottom left": {
+            "question": "What does the bottom left corner's text say?",
+            "answer": "I can't find any discernible text on the bottom left corner."
+        },
+        "bottom center": {
+            "question": "Could you decipher the writing on the bottom center corner?",
+            "answer": "I'm sorry, but I can't decipher any text on the bottom center corner."
+        },
+        "bottom right": {
+            "question": "Read the text on the bottom right corner.",
+            "answer": "There is no text to read on the bottom right corner."
+        }
+    }
+]
